@@ -12,6 +12,3 @@ dependencies:
   - bokeh
   - dask
   - openmm
-  - simtk
-  - MDAnalysis
-  - nglview
